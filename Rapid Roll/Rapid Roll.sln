@@ -1,7 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{BE4E6A42-16CE-7DA2-95D4-3B47FA4DA7E7}") = "Rapid Roll", "Assembly-CSharp.csproj", "{2ADFAECF-8731-43BA-5B2B-1167631E61B7}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rapid Roll", "Assembly-CSharp.csproj", "{2ADFAECF-8731-43BA-5B2B-1167631E61B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rapid Roll", "Assembly-CSharp-Editor-firstpass.csproj", "{AD322D08-AC7E-DD98-FD80-FD4BE477E036}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{2ADFAECF-8731-43BA-5B2B-1167631E61B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ADFAECF-8731-43BA-5B2B-1167631E61B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ADFAECF-8731-43BA-5B2B-1167631E61B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD322D08-AC7E-DD98-FD80-FD4BE477E036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD322D08-AC7E-DD98-FD80-FD4BE477E036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD322D08-AC7E-DD98-FD80-FD4BE477E036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD322D08-AC7E-DD98-FD80-FD4BE477E036}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
